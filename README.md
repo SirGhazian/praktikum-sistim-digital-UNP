@@ -8,6 +8,7 @@ Modul ini menggunakan aplikasi Digital Works sebagai alat utama untuk simulasi s
 ).
 
 Beberapa modul menggunakan aplikasi tambahan karena aplikasi Digital Works yang disarankan pada modul tidak memiliki library IC yang lengkap. Oleh karena itu, Anda akan menemukan berbagai jenis ekstensi file dalam repository ini.
+</br></br>
 
 ## Jenis Ekstensi dan Aplikasi yang Digunakan
 
@@ -25,6 +26,7 @@ Beberapa modul menggunakan aplikasi tambahan karena aplikasi Digital Works yang 
    - **Aplikasi:** Proteus 8
    - **Deskripsi:** Digunakan untuk simulasi dengan fitur yang lebih kompleks yang tidak tersedia di Digital Works.
    - **Modul Terkait:** Modul 6, 8, 9, 10
+</br></br>
 
 ## Link Download Aplikasi
 
