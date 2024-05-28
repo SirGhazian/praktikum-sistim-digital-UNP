@@ -47,4 +47,6 @@ Beberapa modul menggunakan aplikasi tambahan karena aplikasi Digital Works yang 
 
 ---
 
-Silakan hubungi saya jika ada pertanyaan atau membutuhkan bantuan lebih lanjut. Selamat belajar dan semoga sukses dengan praktikum Anda!
+![Logo](https://unp.ac.id/nfs-assets/all/images/logo_unp_white.png)
+
+Silakan hubungi [Instagram](https://www.instagram.com/ghazian_tza/) saya jika ada pertanyaan atau membutuhkan bantuan lebih lanjut. Selamat belajar dan semoga sukses dengan praktikum Anda!
