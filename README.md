@@ -28,10 +28,10 @@ Beberapa modul menggunakan aplikasi tambahan karena aplikasi Digital Works yang 
 
 ## Link Download Aplikasi
 
-- **Digital Works:** [Mecanique](https://www.mecanique.co.uk/shop/index.php?route=product/category&path=89)
-- **Logisim:** [SourceForge](https://sourceforge.net/projects/circuit/)
+- **Digital Works:** [Download Disini](https://www.mecanique.co.uk/shop/index.php?route=product/category&path=89)
+- **Logisim:** [Download Disini](https://sourceforge.net/projects/circuit/)
   - **Library 7400 series:** [GitHub - logi7400](https://github.com/r0the/logi7400) (cukup download file `logi7400ic.circ` saja)
-- **Proteus 8.10 Suite:** [Labcenter](https://www.labcenter.com/)
+- **Proteus 8.10 Suite:** [Download Disini](https://www.labcenter.com/)
 
 ---
 
