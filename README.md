@@ -47,6 +47,15 @@ Beberapa modul menggunakan aplikasi tambahan karena aplikasi Digital Works yang 
 
 ---
 
+
+## <a id="about"></a> About and Help
+
 ![Logo](https://unp.ac.id/nfs-assets/all/images/logo_unp_white.png)
 
-Silakan hubungi [Instagram](https://www.instagram.com/ghazian_tza/) saya jika ada pertanyaan atau membutuhkan bantuan lebih lanjut. Selamat belajar dan semoga sukses dengan praktikum Anda!
+Untuk bantuan dan pertanyaan, silahkan hubungi sosial media saya:
+<img align="right" width="100" src="https://github.com/SirGhazian/praktikum-struktur-data-UNP/assets/142916107/b140fe43-3a57-4295-8493-79d929a5e3b0">
+
+-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghazian_tza)
+-   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIp_064wQ8RqNSEy1asx_4w)
+
+
