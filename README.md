@@ -7,7 +7,7 @@ Repository ini berisi tugas-tugas dari modul mata kuliah Praktikum Sistem Digita
 Modul ini menggunakan aplikasi Digital Works sebagai alat utama untuk simulasi sistem digital. Aplikasi ini dapat diunduh [disini](https://www.mecanique.co.uk/shop/index.php?route=product/category&path=89
 ).
 
-Beberapa modul menggunakan aplikasi tambahan karena aplikasi Digital Works yang disarankan pada modul tidak memiliki library IC yang lengkap. Oleh karena itu, Anda akan menemukan berbagai jenis ekstensi file dalam repository ini.
+Beberapa modul menggunakan aplikasi tambahan dikarenakan aplikasi Digital Works yang disarankan pada modul tidak memiliki library IC yang lengkap. Oleh karena itu, Anda akan menemukan berbagai jenis ekstensi file dalam repository ini.
 </br></br>
 
 ## Jenis Ekstensi dan Aplikasi yang Digunakan
